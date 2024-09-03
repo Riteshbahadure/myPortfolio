@@ -7,4 +7,4 @@ router
     .post("/login", loginUser)
     .post("/logout", logoutUser)
 
-module.exports = router
+module.exports = router
